@@ -11,3 +11,8 @@ if (email == 'QbJkQ@example.com' && password == '123456') {
 else {
     console.log('Access denied');
 }
+
+console.log('1'+1)
+// console.log('1'+++1)
+console.log(1+'1')
+// console.log(1+++'1')
